@@ -42,7 +42,7 @@ if len(path)>0:
     layers,model,av_layer = model_load(path)
     
     layer_visual = st.sidebar.selectbox('Choose a layer to visualize',av_layer)
-    image = st.sidebar.file_uploader("Input the image",type='jpg')
+    image = st.sidebar.file_uploader("Upload the image",type='jpg')
     layer_number = layers.index(layer_visual) 
     
     if image is not None:
