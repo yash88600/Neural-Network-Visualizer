@@ -6,4 +6,12 @@ By visualizing the output of every layer one can better understand the effect of
 
 I have used the **streamlit library** to design the UI of the Web App. Streamlit is very simple and easy to use,With just few lines of code of can develop a good UI for their Web App.
 
-
+## To run the Web App
+- install the streamlit library
+~~~ 
+pip install streamlit
+~~~
+- run the following command: 
+~~~
+streamlit run stream.py
+~~~
