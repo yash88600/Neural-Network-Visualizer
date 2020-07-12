@@ -18,4 +18,10 @@ streamlit run stream.py
 - then provide the path to the model and upload the image
 
 ### UI and results
+- enter the path to the model
+![img1](https://github.com/yash88600/Neural-Network-Visualizer/blob/master/img/1.jpg)
+
+- select the layer and upload the image
+![img2](https://github.com/yash88600/Neural-Network-Visualizer/blob/master/img/2.jpg)
+
 
