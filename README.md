@@ -11,7 +11,11 @@ I have used the **streamlit library** to design the UI of the Web App. Streamlit
 ~~~ 
 pip install streamlit
 ~~~
-- run the following command: 
+- then run the following command on cmd: 
 ~~~
 streamlit run stream.py
 ~~~
+- then provide the path to the model and upload the image
+
+### UI and results
+
