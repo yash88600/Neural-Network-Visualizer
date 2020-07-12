@@ -24,4 +24,12 @@ streamlit run stream.py
 - select the layer and upload the image
 ![img2](https://github.com/yash88600/Neural-Network-Visualizer/blob/master/img/2.jpg)
 
+- Visualizing single filter output
+![img3](https://github.com/yash88600/Neural-Network-Visualizer/blob/master/img/3.jpg)
+
+- Visualizing few filters
+![img4](https://github.com/yash88600/Neural-Network-Visualizer/blob/master/img/4.jpg)
+
+- Visualizing all filters at once
+![img5](https://github.com/yash88600/Neural-Network-Visualizer/blob/master/img/5.jpg)
 
