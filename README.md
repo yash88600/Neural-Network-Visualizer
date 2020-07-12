@@ -33,3 +33,4 @@ streamlit run stream.py
 - Visualizing all filters at once
 ![img5](https://github.com/yash88600/Neural-Network-Visualizer/blob/master/img/5.jpg)
 
+**Note: The App runs locally on device only**
